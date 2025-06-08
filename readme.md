@@ -16,7 +16,7 @@
 
 ## 📝 Descripción General
 
-Contrato inteligente desarrollado para el Trabajo Práctico N.º 2 del Módulo 2, **ETH Kipu**, que implementa un sistema de subastas
+Contrato inteligente desarrollado para el Trabajo Final - Módulo 2, **ETH Kipu**, que implementa un sistema de subastas
 
 ---
 
@@ -104,5 +104,5 @@ graph TD
 ## 📇 Información del Proyecto
 **Estudiante**: Elisa Araya  
 **Curso**: ETH Kipu - Ethereum Developer Pack  
-**Entrega**: Proyecto Final - Módulo 2  
+**Entrega**: Trabajo Final - Módulo 2
 **GitHub**: [arayamariaelisa](https://github.com/arayamariaelisa)
