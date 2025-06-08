@@ -55,7 +55,7 @@ struct Puja {
 
 ---
 
-## 🛠️ 🧠 Diagrama de Flujo 
+##  🧠 Diagrama de Flujo 
 
 ```mermaid
 graph TD
