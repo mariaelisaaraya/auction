@@ -104,5 +104,4 @@ graph TD
 ## 📇 Información del Proyecto
 **Estudiante**: Elisa Araya  
 **Curso**: ETH Kipu - Ethereum Developer Pack  
-**Entrega**: Trabajo Final - Módulo 2
-**GitHub**: [arayamariaelisa](https://github.com/arayamariaelisa)
+**Entrega**: Trabajo Final - Módulo 2 
