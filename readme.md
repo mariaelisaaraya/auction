@@ -1,7 +1,7 @@
 ![Curso](https://img.shields.io/badge/Curso-ETH_Kipu-blue)
 ![Modalidad](https://img.shields.io/badge/Modalidad-Online-lightgrey)
 ![Developer](https://img.shields.io/badge/Developer-3lisa-purple)
-![Estado](https://img.shields.io/badge/Estado-Activo-brightgreen)
+![Estado](https://img.shields.io/badge/Estado-Aprobado-brightgreen)
 
 # 📦 SubastaEth - Contrato Inteligente de Subasta
 
